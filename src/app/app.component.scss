@@ -1,0 +1,11 @@
+@import '../styles.scss';
+
+.mira-nav{
+  &--brand{
+    font-size: $mira-text-lg;
+    font-weight: bold;
+  }
+  &--link{
+    font-size: $mira-text-md;
+  }
+}
